@@ -13,7 +13,7 @@
 ## 🔗 Connect with me  
 - 💼 GitHub: https://github.com/Manaskandpal07 
 - 🔗 LinkedIn: (https://www.linkedin.com/in/manas-kandpal-a9746a2b5/)
-- 
+  
 ---
 
 ## 🛠 Languages & Tools  
