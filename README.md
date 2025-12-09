@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Manas Kandpal  
 
-<!--
-**manaskandpal07/manaskandpal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science / Software Enthusiast  
 
-Here are some ideas to get you started:
+- 🎓 I’m a CS student & passionate learner  
+- 🌱 Currently learning *C, Java, Computer Networks & Web Basics*  
+- 💬 Ask me about *C language, Java basics & networking fundamentals*  
+- 🎯 Goal: Become a skilled *Software Developer*  
+- ⚡ Fun fact: I enjoy solving logical problems & learning new tech  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me  
+- 💼 GitHub: https://github.com/Manaskandpal07 
+- 🔗 LinkedIn: (https://www.linkedin.com/in/manas-kandpal-a9746a2b5/)
+- 
+---
+
+## 🛠 Languages & Tools  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+
+⭐ Thanks for visiting my profile!
